@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fce68d65-9dd6-465e-91ed-0f6d3e98b1b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomationEMSIzaan/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomationEMSIzaan/src/test/java/Helper/ApplicationHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomationEMSIzaan/src/test/java/PageObjects/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomationEMSIzaan/src/test/java/PageObjects/LoginToHRPMS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomationEMSIzaan/src/test/java/PageObjects/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomationEMSIzaan/src/test/java/PageObjectsTests/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomationEMSIzaan/src/test/resoures/EcommerceTestRunnerFile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utilities/drivers/mac/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utilities/drivers/mac/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utilities/drivers/windows/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utilities/drivers/windows/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utilities/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utilities/src/main/java/browserdriver/BrowserDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utilities/src/main/java/excelreader/MyDataReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utilities/src/main/java/reporting/ApplicationLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utilities/src/main/java/reporting/ExtentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utilities/src/main/java/reporting/ExtentTestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utilities/src/main/java/reporting/TestLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BpMj3AOWxzbKGfoAbCrlWjCth9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jamal/IdeaProjects/Automation071122&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.52068967&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jamal\IdeaProjects\Automation071122\AutomationEMSIzaan\src\test\java" />
+      <recent name="C:\Users\Jamal\IdeaProjects\Automation071122\AutomationEMSIzaan\src\test" />
+      <recent name="C:\Users\Jamal\IdeaProjects\Automation071122\Utilities" />
+      <recent name="C:\Users\Jamal\IdeaProjects\Automation071122" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="PageObjectsTests" />
+      <recent name="Helper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LoginPage">
+    <configuration name="C:/Users/Jamal/IdeaProjects/Automation071122/AutomationEMSIzaan/src/test/resoures/EcommerceTestRunnerFile.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationEMSIzaan" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/AutomationEMSIzaan/src/test/resoures/EcommerceTestRunnerFile.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationEMSIzaan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PageObjectsTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PageObjectsTests" />
+      <option name="MAIN_CLASS_NAME" value="PageObjectsTests.LoginPage" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPage.LoggedIn" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationEMSIzaan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PageObjectsTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PageObjectsTests" />
+      <option name="MAIN_CLASS_NAME" value="PageObjectsTests.LoginPage" />
+      <option name="METHOD_NAME" value="LoggedIn" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginToHRPMS.Login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationEMSIzaan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PageObjects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PageObjects" />
+      <option name="MAIN_CLASS_NAME" value="PageObjects.LoginToHRPMS" />
+      <option name="METHOD_NAME" value="Login" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginPage" />
+        <item itemvalue="TestNG.C:/Users/Jamal/IdeaProjects/Automation071122/AutomationEMSIzaan/src/test/resoures/EcommerceTestRunnerFile.xml" />
+        <item itemvalue="TestNG.LoginPage.LoggedIn" />
+        <item itemvalue="TestNG.LoginToHRPMS.Login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fce68d65-9dd6-465e-91ed-0f6d3e98b1b6" name="Changes" comment="" />
+      <created>1657598704308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657598704308</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
